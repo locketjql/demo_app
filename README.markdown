@@ -1,1 +1,1 @@
-This is an example application. [*My favourite website*](http://www.google.com)
+This is an example application. [*Your favourite website*](http://www.google.com)
